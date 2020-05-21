@@ -1,0 +1,56 @@
+body{
+    line-height:1.7;
+    color:black;
+    font-weight:400;
+    font-size:15px;
+}
+h2{
+    color:salmon;
+    margin-top:0;
+    margin-bottom:0.5rem;
+}
+a{
+    text-decoration:none;
+}
+.menu{
+    text-align:center;
+    border-bottom:1px solid darkgray;
+}
+ul{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    padding-inline-start:0px;
+}
+.name{
+    text-align:center;
+    font-family:Impact, sans-seri;
+    font-style:italic;
+    font-size:100px;
+    color:rgb(107, 60, 107);
+}
+.text{
+    padding:3px;
+    border:2px rgba(196, 48, 48, 0.164);
+    border-style:inset;
+    background-color:ivory;
+}
+.img-fluid{
+    background-color:papayawhip;
+    font-style:italic;
+    text-align:left;
+}
+.paint{
+    background-color:papayawhip;
+    font-style:italic;
+    text-align:right;
+}
+.caption{
+    text-transform:uppercase;
+    font-weight:800;
+    letter-spacing:.2em;
+    font-size:12px;
+    padding:7px 10px;
+    color:rgb(53, 58, 53);
+    display:inline-block;
+
+}
